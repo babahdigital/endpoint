@@ -33,6 +33,7 @@ Thumbs.db
 # Abaikan konfigurasi Git
 .git/
 .gitconfig
+.vscode
 
 # Abaikan file konfigurasi lingkungan dan credential
 credentials.sh
